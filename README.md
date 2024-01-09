@@ -17,3 +17,4 @@ countries.json содержит данные о странах.
 genres.json содержит данные о жанрах.  
 films.json содержит данные о фильмах.  
 staff.json содержит данные о персонале (режиссёры, актёры и т.д.).
+<img width="534" alt="Снимок экрана 2024-01-09 в 12 30 21" src="https://github.com/HumanAlone/kinoparse/assets/19314596/465d8c93-43e8-41f0-8c7b-6af206c138c0">
