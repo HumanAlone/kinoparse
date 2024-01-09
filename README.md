@@ -22,3 +22,5 @@ staff.json содержит данные о персонале (режиссёр
 
 
 <img width="391" alt="Снимок экрана 2024-01-09 в 12 37 53" src="https://github.com/HumanAlone/kinoparse/assets/19314596/2d316c4d-aae1-40f9-93f3-07fda3267b15">
+
+<img width="2001" alt="Снимок экрана 2024-01-09 в 12 54 47" src="https://github.com/HumanAlone/kinoparse/assets/19314596/db74eb18-b6dd-4e91-ac56-efa15adb62d7">
