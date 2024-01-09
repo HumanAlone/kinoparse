@@ -1,6 +1,6 @@
 # Задание "Парсинг кинопоиска. Заливка в neo4j."
 
-В работе использован сервси https://kinopoiskapiunofficial.tech  
+В работе использован сервсис https://kinopoiskapiunofficial.tech  
 
 Сначала были получены списки стран и жанров по эндпоинту /api/v2.2/films/filters.  
 По эндпоинту /api/v2.2/films получен список фильмов.  
