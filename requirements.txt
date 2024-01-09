@@ -1,0 +1,8 @@
+apischema==0.15.6
+certifi==2023.11.17
+charset-normalizer==2.0.12
+idna==3.6
+neo4j==5.16.0
+pytz==2023.3.post1
+requests==2.26.0
+urllib3==1.26.18
